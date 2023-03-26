@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "549390140840",
+    "project_id": "rokave-flutter-notificaciones",
+    "storage_bucket": "rokave-flutter-notificaciones.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549390140840:android:05f6204f2f251b59f7499d",
+        "android_client_info": {
+          "package_name": "com.edwinhenriquez.rokave_notificaciones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549390140840-0i327j2vt87upe1bl0llahuiav6jis0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edwinhenriquez.rokave_notificaciones",
+            "certificate_hash": "f22977602efb55241c1fe67d719eedc337e5085e"
+          }
+        },
+        {
+          "client_id": "549390140840-orttmdnhaum0jdhc23n5mfn3b8n7aa2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaOl8zqWwVaIZFBDaEqp_jKN2LigbPJTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549390140840-orttmdnhaum0jdhc23n5mfn3b8n7aa2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
